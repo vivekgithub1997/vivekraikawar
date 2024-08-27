@@ -67,7 +67,7 @@ const About = () => {
                                     <a className="w-2/3 ml-28 text-zinc-50 hover:text-yellow-500"
                                         href="https://www.linkedin.com/in/vivek-raikawar-ckt/" target="_blank"
                                         rel="noopener noreferrer"
-                                    >View Linked Profile</a>
+                                    >Linked Profile</a>
 
                                 </div>
                                 <div className="flex flex-row">
@@ -90,7 +90,7 @@ const About = () => {
                                     <a className="w-2/3 ml-28 text-zinc-50 hover:text-yellow-500"
                                         href="https://github.com/vivekgithub1997" target="_blank"
                                         rel="noopener noreferrer"
-                                    >View GitHub Projects</a>
+                                    >GitHub Projects</a>
 
                                 </div>
 
