@@ -30,12 +30,12 @@ const About = () => {
                                     <span className="w-2/3">Vivek Raikawar</span>
                                 </div>
                                 <div className="flex flex-row">
-                                    <span className="font-semibold w-1/3">Date of Birth:</span>
+                                    <span className="font-semibold w-1/3">DOB:</span>
                                     <span className="w-2/3">July 14, 1997</span>
                                 </div>
                                 <div className="flex flex-row">
                                     <span className="font-semibold w-1/3">Address:</span>
-                                    <span className="w-2/3">Chitrakoot, Uttar Pradesh</span>
+                                    <span className="w-2/3">Chitrakoot, UP</span>
                                 </div>
                                 <div className="flex flex-row">
                                     <span className="font-semibold w-1/3">Country:</span>
