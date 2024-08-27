@@ -38,7 +38,7 @@ export const MainSection = () => {
 
             {/* Right side */}
             <div className="h-auto w-full max-w-[30rem] aspect-square rounded-full border-2 border-yellow-500 mt-4 overflow-hidden mx-auto">
-              <img src="src/assets/profile.png" alt="Profile Picture" className="object-cover w-full h-full" />
+              <img src="profile.png" alt="Profile Picture" className="object-cover w-full h-full" />
             </div>
 
           </div>

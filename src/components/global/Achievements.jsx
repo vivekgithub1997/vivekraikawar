@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Achievements = () => {
   return (
     <section className="py-8 px-4">
@@ -8,11 +9,11 @@ const Achievements = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6">
         {[
           {
-            imgSrc: "src/assets/instapat.jpg",
+            imgSrc:"/instapat.jpg",
             description: "Instapat Award",
           },
           {
-            imgSrc: "src/assets/achievers.jpg",
+            imgSrc: "/achievers.jpg",
             description: "Achievers Award",
           },
         ].map((achievement, index) => (
