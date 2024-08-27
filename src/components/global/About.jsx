@@ -67,7 +67,7 @@ const About = () => {
                                     <a className="w-2/3 ml-28 text-zinc-50 hover:text-yellow-500"
                                         href="https://www.linkedin.com/in/vivek-raikawar-ckt/" target="_blank"
                                         rel="noopener noreferrer"
-                                    >Linked Profile</a>
+                                    >Linkedin Profile</a>
 
                                 </div>
                                 <div className="flex flex-row">
